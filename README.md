@@ -2,6 +2,10 @@
 
 **Data Science & Artificial Intelligence Student @ Ibmec Rio de Janeiro · 5th Semester**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--vasconcelos-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicholas-vasconcelos)
+[![GitHub](https://img.shields.io/badge/GitHub-nicholas--vasconcelos-181717?style=flat&logo=github)](https://github.com/nicholas-vasconcelos)
+
+
 Full-stack developer and student researcher. I build web apps, experiment with AI, and occasionally help other students not fail Data Structures.
 Currently working on two research papers — one on face recognition and person re-identification, another investigating how anthropomorphic AI affects trust and purchase intent — both targeting **SBrT** and academic publication.
 
@@ -43,22 +47,4 @@ Currently working on two research papers — one on face recognition and person 
 | 2025.2 | [Portal Monitor — CASA](https://github.com/Projetos-de-Extensao/PFE_25.2_8002_III) | Project: Front-End | React · JavaScript · HTML/CSS | [↗](https://pfe-25-2-8002-iii.vercel.app) |
 | 2025.1 | [Neighborhood Animal Tracker](https://github.com/nicholas-vasconcelos/POO-Neighborhood-Animal-Tracker) | Object-Oriented Programming (AP2) | Java · MySQL · JDBC | [↗](https://github.com/nicholas-vasconcelos/POO-Neighborhood-Animal-Tracker) |
 
----
 
-## Currently
-
-- 📄 Writing a paper on **face + clothing-based person re-identification** at academic events, targeting SBrT
-- 📄 Writing a paper on **anthropomorphic AI in product recommendations** — studying how humanized prompts affect trust and purchase intent
-- 🧑‍🏫 Teaching Assistant for Data Structures @ Ibmec
-
----
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--vasconcelos-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicholas-vasconcelos)
-[![GitHub](https://img.shields.io/badge/GitHub-nicholas--vasconcelos-181717?style=flat&logo=github)](https://github.com/nicholas-vasconcelos)
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nicholas-vasconcelos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-vasconcelos&layout=compact&theme=tokyonight&hide_border=true)

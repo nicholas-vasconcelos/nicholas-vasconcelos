@@ -2,7 +2,7 @@
 
 **Data Science & Artificial Intelligence Student @ Ibmec Rio de Janeiro · 5th Semester**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--vasconcelos-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicholas-vasconcelos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas-b-vasconcelos-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicholas-vasconcelos)
 [![GitHub](https://img.shields.io/badge/GitHub-nicholas--vasconcelos-181717?style=flat&logo=github)](https://github.com/nicholas-vasconcelos)
 
 
